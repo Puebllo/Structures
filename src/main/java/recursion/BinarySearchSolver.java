@@ -1,6 +1,6 @@
 package recursion;
 
-public class Recursion2Solver extends SolverAbstract{
+public class BinarySearchSolver extends SolverAbstract{
     private int[] numbers;
     @Override
     protected void initData() {

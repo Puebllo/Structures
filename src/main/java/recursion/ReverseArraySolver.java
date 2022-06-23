@@ -1,6 +1,6 @@
 package recursion;
 
-public class Recursion1Solver extends SolverAbstract{
+public class ReverseArraySolver extends SolverAbstract{
 
     private int[] numbers;
     @Override
