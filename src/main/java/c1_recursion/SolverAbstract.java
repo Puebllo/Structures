@@ -1,4 +1,4 @@
-package recursion;
+package c1_recursion;
 
 public abstract class SolverAbstract {
 
