@@ -1,6 +1,6 @@
 package c1_recursion;
 
-public class BinarySearchSolver extends SolverAbstract{
+public class BinarySearch extends SolverAbstract{
     private int[] numbers;
     @Override
     protected void initData() {
