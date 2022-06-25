@@ -1,10 +1,8 @@
-import c1_recursion.BinaryConverter;
-import c1_recursion.BinarySearchSolver;
-import c1_recursion.SolverAbstract;
+import c1_recursion.*;
 
 public class AppMain {
     public static void main(String[] args) {
-        SolverAbstract sa = new BinaryConverter();
+        SolverAbstract sa = new GCD();
         sa.doSolve();
 
     }
