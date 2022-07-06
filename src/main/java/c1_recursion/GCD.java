@@ -1,6 +1,8 @@
 package c1_recursion;
 
-public class GCD extends SolverAbstract{
+import appMain.SolverAbstract;
+
+public class GCD extends SolverAbstract {
 
     @Override
     protected void initData() {

@@ -1,8 +1,8 @@
 package c1_recursion;
 
-import java.util.Stack;
+import appMain.SolverAbstract;
 
-public class BinaryConverter extends SolverAbstract{
+public class BinaryConverter extends SolverAbstract {
 
     int number = 13;
     @Override
