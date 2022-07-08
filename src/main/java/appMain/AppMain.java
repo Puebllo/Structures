@@ -1,10 +1,10 @@
 package appMain;
 
-import c6_DoublyLinkedList.DoublyTester;
+import c7_QueueImplementation.FIFOTester;
 
 public class AppMain {
     public static void main(String[] args) {
-        SolverAbstract sa = new DoublyTester();
+        SolverAbstract sa = new FIFOTester();
         sa.doSolve();
 
     }
